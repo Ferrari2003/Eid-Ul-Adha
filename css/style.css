@@ -1,0 +1,119 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0%;
+}
+
+.header_section{
+   position: relative;
+   text-align: center;
+ 
+}
+.center{
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    transform: translate(-50% -50%);
+   color: white;
+   font-size: 25px;
+}
+span{
+    color: red;
+}
+.link_button{
+ background-image: linear-gradient(tomato,tomato);
+ text-decoration: none;
+ padding: 20px;
+ border-radius: 10px;
+ color: white;
+}
+section{
+    display: flex;
+}
+.center_2{
+    padding-left: 150px;
+    padding-top: 40px;
+}
+.center_3{
+    width: 30%;
+    margin-left: 20%;
+}
+.center_4{
+    margin-left: 8%;
+}
+.center_5{
+    margin-left: 20%;
+}
+.center_6{
+   margin-left: 40%;
+}
+.box_shadow{
+    width: 500px;
+    
+    margin: 150px;
+    padding: 120px;
+    box-shadow: 10px 20px 40px;
+    background-color: lightgreen;
+    border-radius: 10px;
+    display: inline-flex;
+    color: gray;
+}
+.img{
+    margin-right: 20%;
+}
+.text{
+    padding-bottom: 20%;
+    color: white;
+}
+.box_shadow1{
+    width: 500px;
+    
+    margin: 150px;
+    padding: 120px;
+    box-shadow: 10px 20px 40px;
+    background-color:lightcoral;
+    border-radius: 10px;
+    display: inline-flex;
+    color: gray;
+}
+.center_img{
+    padding-left: 12.50%; 
+    margin-left: 15px;
+    
+}
+.footer{
+    margin-left: 30%;
+}
+
+.footer_1{
+    width: 25%;
+    text-align: center;
+    padding-top: 45px;
+    box-shadow: 10px 20px 40px gray;
+    margin-left: 7%;
+}
+.footer_2{
+    width: 25%;
+    text-align: center;
+    padding-top: 45px;
+    box-shadow: 10px 20px 40px gray;
+   margin-left: 7%;
+}
+.footer_3{
+    width: 25%;
+    text-align: center;
+    padding-top: 45px;
+    box-shadow: 10px 20px 40px gray;
+    margin-left: 7%;
+}
+.footer_4{
+    color: tomato;
+}
+#last_part{
+    width: 100%;
+    padding: 20px;
+    background-color: black;
+    text-align: center;
+    color: white;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
